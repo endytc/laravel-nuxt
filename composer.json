@@ -1,5 +1,5 @@
 {
-    "name": "m2s/laravel-nuxt",
+    "name": "endytc/laravel-nuxt",
     "description": "NuxtJS framework integration for Laravel",
     "version": "1.2.0",
     "type": "library",
@@ -20,8 +20,8 @@
     ],
     "support": {
         "email": "info@m-squared-solutions.it",
-        "issues": "https://github.com/m2sd/laravel-nuxt/issues",
-        "source": "https://github.com/m2sd/laravel-nuxt"
+        "issues": "https://github.com/endytc/laravel-nuxt/issues",
+        "source": "https://github.com/endytc/laravel-nuxt"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
